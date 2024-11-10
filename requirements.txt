@@ -1,0 +1,5 @@
+numpy
+qiskit
+scikit-learn
+tensorflow
+pennylane
